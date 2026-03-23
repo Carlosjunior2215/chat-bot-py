@@ -1,6 +1,6 @@
 # 🤖 ChatBot com IA usando Streamlit e OpenAI
 
-Aplicação web de chatbot com inteligência artificial desenvolvida em Python utilizando Streamlit para interface e OpenAI para geração de respostas.(obs:keyapi:"Inativa")
+Aplicação web de chatbot com inteligência artificial desenvolvida em Python utilizando Streamlit para interface e OpenAI para geração de respostas.(obs:keyOpenAI:"Inativa")- chave guardada no arquivo .env
 
 ---
 
